@@ -37,4 +37,7 @@
   </tr>
 </table>
 <br/>
+<div align = "center">
+  <img src = "https://komarev.com/ghpvc/?username=Marat-terabyte&&style=flat-square"/>
+</div>
 <h3 align = "center">Good Luck!</h3>
