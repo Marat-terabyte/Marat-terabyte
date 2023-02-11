@@ -13,27 +13,45 @@
     <td width = "130" align = "center">
       <a href = "https://dotnet.microsoft.com/en-us/languages/csharp">
           <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width = "130" heigth = "130"/>
-        <br/>C#
       </a>
     </td>
     <td width = "130" align = "center">
       <a href = "https://visualstudio.microsoft.com/ru/vs/features/wpf/">
         <img src='https://i.postimg.cc/4xRpb1Fx/Microsoft-WPF.png' width = "130" heigth = "130"/>
-      <br/>WPF
       </a>
     </td>
     <td width = "130" align = "center">
       <a href = "https://git-scm.com/">
         <img src='https://i.postimg.cc/c1BJbyhY/Git-Emblem.png' width = "130" heigth = "130"/>
-      <br/>Git
       </a>
     </td>
     <td width = "130" align = "center">
       <a href = "https://github.com/">
         <img src='https://i.postimg.cc/rwPGRtt8/github.png' width = "130" heigth = "130"/>
-      <br/>Github
       </a>
     </td>
+  </tr>
+    <tr>
+      <td width = "130" align = "center">
+        <a href = "https://www.python.org/">
+          <img src = "https://i.postimg.cc/cHhzbgMt/Python-language.png" width = "130" heigth = "130"/>
+        </a>
+      </td>
+      <td width = "130" align = "center">
+        <a href = "https://www.mysql.com/">
+          <img src = "https://i.postimg.cc/sxZpZbXf/mysql.png" width = "130" hegth = "130"/>
+        </a>
+      </td>
+      <td width = "130" align = "center">
+        <a href = "https://developer.mozilla.org/en/docs/Web/HTML">
+          <img src = "https://i.postimg.cc/k5zNXnJY/html5.png" width = "130" hegth = "130"/>
+        </a>
+      </td>
+      <td width = "130" align = "center">
+        <a href = "https://developer.mozilla.org/en/docs/Web/CSS">
+          <img src = "https://i.postimg.cc/2yz1CJZX/css3.png" width = "130" hegth = "130"/>
+        </a>
+      </td>
   </tr>
 </table>
 <br/>
