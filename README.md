@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on creative programs
 - 🌱 I’m currently learning Desktop development using WPF
 - &#9829; My favorite programming languages are C# and python
+- 📫 How to reach me marat.amzph21@gmail.com
 
 ## My favorite tools and technologies
 
