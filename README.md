@@ -12,44 +12,44 @@
   <tr>
     <td width = "130" align = "center">
       <a href = "https://dotnet.microsoft.com/en-us/languages/csharp">
-          <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width = "130" heigth = "130"/>
+          <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width = "130" heigth = "130"/>
       </a>
     </td>
     <td width = "130" align = "center">
-      <a href = "https://visualstudio.microsoft.com/ru/vs/features/wpf/">
-        <img src='https://i.postimg.cc/4xRpb1Fx/Microsoft-WPF.png' width = "130" heigth = "130"/>
+      <a href = "https://dotnet.microsoft.com/en-us/">
+        <img src='https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg' width = "130" heigth = "130"/>
       </a>
     </td>
     <td width = "130" align = "center">
       <a href = "https://git-scm.com/">
-        <img src='https://i.postimg.cc/c1BJbyhY/Git-Emblem.png' width = "130" heigth = "130"/>
+        <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width = "130" heigth = "130"/>
       </a>
     </td>
     <td width = "130" align = "center">
       <a href = "https://github.com/">
-        <img src='https://i.postimg.cc/rwPGRtt8/github.png' width = "130" heigth = "130"/>
+        <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' width = "130" heigth = "130"/>
       </a>
     </td>
   </tr>
     <tr>
       <td width = "130" align = "center">
         <a href = "https://www.python.org/">
-          <img src = "https://i.postimg.cc/cHhzbgMt/Python-language.png" width = "130" heigth = "130"/>
+          <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "130" heigth = "130"/>
         </a>
       </td>
       <td width = "130" align = "center">
         <a href = "https://www.mysql.com/">
-          <img src = "https://i.postimg.cc/sxZpZbXf/mysql.png" width = "130" hegth = "130"/>
+          <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = "130" hegth = "130"/>
         </a>
       </td>
       <td width = "130" align = "center">
         <a href = "https://developer.mozilla.org/en/docs/Web/HTML">
-          <img src = "https://i.postimg.cc/k5zNXnJY/html5.png" width = "130" hegth = "130"/>
+          <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "130" hegth = "130"/>
         </a>
       </td>
       <td width = "130" align = "center">
         <a href = "https://developer.mozilla.org/en/docs/Web/CSS">
-          <img src = "https://i.postimg.cc/2yz1CJZX/css3.png" width = "130" hegth = "130"/>
+          <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width = "130" hegth = "130"/>
         </a>
       </td>
   </tr>
