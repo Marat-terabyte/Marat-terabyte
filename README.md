@@ -54,5 +54,3 @@
   </tr>
 </table>
 <br/>
-
-<h3 align = "center">Good Luck!</h3>
